@@ -14,3 +14,5 @@ Price <input type="number" [(ngModel)]="price">
 {{price | numberToPersian}}
 ```
 که باعث تبدیل اعداد وارد شده به اعداد تا 16 رقم میود
+
+![alt text](https://raw.githubusercontent.com/EbrahimHamzeh/NumberToPersian/master/demo.gif)
