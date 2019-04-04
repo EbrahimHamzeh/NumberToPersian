@@ -18,6 +18,6 @@ Price <input type="number" [(ngModel)]="price">
 </div>
   
 که باعث تبدیل اعداد وارد شده به حروف تا 16 رقم میشود.
-</div>
 
 ![alt text](https://raw.githubusercontent.com/EbrahimHamzeh/NumberToPersian/master/demo.gif)
+</div>
